@@ -1,0 +1,12 @@
+﻿<Window x:Class="InvoiceDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="550" Width="825">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="569*"/>
+            <ColumnDefinition Width="1948*"/>
+        </Grid.ColumnDefinitions>
+
+    </Grid>
+</Window>
